@@ -22,3 +22,4 @@ plaintext =input("enter the text:")
 key = int(input("enter the key value:"))
 encrypted_text = caesar_cipher(plaintext, key)
 print("Encrypted:", encrypted_text)
+

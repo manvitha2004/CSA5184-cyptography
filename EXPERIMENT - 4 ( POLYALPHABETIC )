@@ -1,4 +1,4 @@
-Write a C program for polyalphabetic substitution cipher uses a separate monoalphabetic 
+4.Write a C program for polyalphabetic substitution cipher uses a separate monoalphabetic 
 substitution cipher for each successive letter of plaintext, depending on a key.
 
 PROGRAM :-

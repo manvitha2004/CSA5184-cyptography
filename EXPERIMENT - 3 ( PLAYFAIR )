@@ -1,4 +1,4 @@
-Write a C program for Playfair algorithm is based on the use of a 5 X 5 matrix of letters 
+3.Write a C program for Playfair algorithm is based on the use of a 5 X 5 matrix of letters 
 constructed using a keyword. Plaintext is encrypted two letters at a time using this matrix.
 
 PROGRAM :-
